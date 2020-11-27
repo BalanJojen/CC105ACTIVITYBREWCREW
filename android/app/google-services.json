@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81494230251",
+    "firebase_url": "https://balan-brew-crew.firebaseio.com",
+    "project_id": "balan-brew-crew",
+    "storage_bucket": "balan-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81494230251:android:170ced860c005818c8eaae",
+        "android_client_info": {
+          "package_name": "com.jojenbalan.balanbrewcrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81494230251-de78a4m8h482vdbrl649uqp3lsdit692.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS09q2IVVldPRalBTqeGdB8iTeZWYinbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81494230251-de78a4m8h482vdbrl649uqp3lsdit692.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
